@@ -10,6 +10,7 @@ Componentes:
                 João Pedro (RA: 25168486-2)
                 Juan Pablo (RA: 25181903-2)
                 Pedro Bueno (RA: 25181992-2)
+                Carlos Eduardo Galdino Sousa (RA: 25148436-2)
 Data: 10 de Setembro de 2025
 Descritivo: Verifique se duas variáveis são idênticas em valor e tipo.
 *******************************************************************************/
@@ -20,5 +21,6 @@ $numb2 = "30";
 echo"$numb1 é do mesmo valor e tipo que o $numb2? ";
 echo"Resposta: ";
 var_dump($numb1===$numb2); //Iguais em valor mas não em tipo.
+
 
 ?>
