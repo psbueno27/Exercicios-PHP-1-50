@@ -11,21 +11,12 @@
                 João Pedro (RA: 25168486-2)
                 Juan Pablo (RA: 25181903-2)
                 Pedro Bueno (RA: 25181992-2)
-                Carlos Eduardo Galdino Sousa (RA: 25148436-2)        
+                Carlos Eduardo Galdino Sousa (RA: 25148436-2) 
 
-Data: 28 de Agosto de 2025
-Descritivo: Crie um programa que eleve 4 à potência de 3.                
+Data: 11 de Setembro de 2025
+Descritivo: Crie uma expressão ternária que retorne "Par" ou "Ímpar" baseado em um número
 *******************************************************************************/
 
-// Declaração de variáveis
-$num1 = 4;
-$num2 = 3;
-$potencia = "";
-
-// Processamento
-$potencia = $num1 ** $num2;
-
-// Saída
-echo "A potência de $num1 elevado a $num2 é igual a $potencia";
-
+$numero = 7;
+        echo ($numero % 2 == 0) ? "Par" : "Ímpar";
 ?>
