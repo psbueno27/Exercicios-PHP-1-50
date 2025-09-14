@@ -12,8 +12,7 @@
                     Juan Pablo (RA: 25181903-2)
                     Pedro Bueno (RA: 25181992-2)
                     Carlos Eduardo Galdino Sousa (RA: 25148436-2)        
-    Data: 28 de Agosto de 2025
-    Descritivo: Escreva um programa que calcule a soma de dois números
+
     *******************************************************************************/
 
 // Declaração de variáveis
