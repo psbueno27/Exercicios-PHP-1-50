@@ -18,5 +18,5 @@ Descritivo: Crie um ternário que retorne "Aprovado" se nota >= 7, senão "Repro
 *******************************************************************************/
 
 $nota = 4;
-    echo ($nota >= 5) ? "Voce esta aprovado" : "Voce esta reprovado";
+    echo ($nota >= 7) ? "Voce esta aprovado" : "Voce esta reprovado";
 ?>
