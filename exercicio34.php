@@ -5,7 +5,13 @@ Disciplina: Linguagem e Técnicas de Programação
 Professor: Flores
 Turma: ESOFT-2A
 Componentes:
-    25168486-2- João Pedro Ferreira Oliveira
+                Alef Luciano (RA: 25004652-2)
+                Daniel de Souza (RA: 25143755-2)
+                João Pedro (RA: 25168486-2)
+                Juan Pablo (RA: 25181903-2)
+                Pedro Bueno (RA: 25181992-2)
+                Carlos Eduardo Galdino Sousa (RA: 25148436-2)        
+    
 Data: 16 de Setembro de 2025
 Descritivo: Crie uma condição que verifique se um ano é bissexto e mostre o calendário do ano
 **************************/
@@ -88,3 +94,4 @@ for ($mes = 1; $mes <= 12; $mes++) {
 
     echo "</tr></table>";
 }
+
