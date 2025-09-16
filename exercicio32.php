@@ -5,7 +5,13 @@ Disciplina: Linguagem e Técnicas de Programação
 Professor: Flores
 Turma: ESOFT-2A
 Componentes:
-    RA - Nome do Aluno
+                Alef Luciano (RA: 25004652-2)
+                Daniel de Souza (RA: 25143755-2)
+                João Pedro (RA: 25168486-2)
+                Juan Pablo (RA: 25181903-2)
+                Pedro Bueno (RA: 25181992-2)
+                Carlos Eduardo Galdino Sousa (RA: 25148436-2)        
+    
 Data: 16 de Setembro de 2025
 Descritivo: Classifique notas (A, B, C, D, F) e divida em Aprovado ou Reprovado, com entrada de usuário
 **************************/
@@ -92,3 +98,4 @@ if (isset($_POST['nota'])) {
 
 </body>
 </html>
+
